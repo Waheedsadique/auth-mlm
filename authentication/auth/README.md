@@ -1,0 +1,1 @@
+poetry add "passlib[bcrypt]" "python-jose[crytography]" psycopg2 fastapi uvicorn["standard"] sqlmodel
